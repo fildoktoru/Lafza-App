@@ -3,7 +3,7 @@
 Lafza is an AI-powered Android application designed to help users improve their diction, elocution, and pronunciation by reading challenging tongue twisters. The app analyzes the user's voice in real-time, detects swallowed letters or mispronounced words, and provides instant scoring and feedback.
 
 ### 🎥 Watch the Promo Video
-[![Lafza Promo Video](https://img.youtube.com/vi/pcW5P4HfdaU/0.jpg)](https://youtube.com/shorts/pcW5P4HfdaU)
+[![Lafza Promo Video](https://img.youtube.com/vi/zDZtLMvu0ec/0.jpg)](https://youtube.com/shorts/zDZtLMvu0ec)
 
 ## 🚀 Features
 * **AI-Powered Voice Analysis:** Real-time speech recognition and precise error detection.
